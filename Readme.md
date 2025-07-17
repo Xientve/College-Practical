@@ -1,4 +1,4 @@
-# College Practical Notebooks
+# Computational Exploration in Physics
 
 This repository contains Jupyter notebooks and source files related to my college physics practicals and experiments. It's organized for clarity, easy reference, and version control throughout my undergraduate studies.
 
