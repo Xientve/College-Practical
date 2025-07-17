@@ -28,3 +28,19 @@ Each notebook corresponds to a specific practical or physics experiment, includi
 1. Clone the repo:
    ```bash
    git clone https://github.com/Xientve/Computational-Exploration-in-Physics.git
+
+## Requirements
+
+To run these notebooks locally, you'll need:
+
+- `Python 3.x`
+- `Jupyter`
+- `matplotlib`
+- `numpy`
+- `scipy` (optional for some notebooks)
+- `sympy` (optional for symbolic math)
+
+You can install the basics with:
+```bash
+# Install Python packages needed to run the notebooks
+pip install -r requirements.txt
