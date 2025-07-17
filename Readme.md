@@ -27,4 +27,4 @@ Each notebook corresponds to a specific practical or physics experiment, includi
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/Xientve/College-Practical.git
+   git clone https://github.com/Xientve/Computational-Exploration-in-Physics.git
